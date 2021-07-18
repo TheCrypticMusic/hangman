@@ -170,3 +170,7 @@ class HangmanDiagram:
         ------------------------------
         """
 
+
+class RandomWordGen:
+
+    pass
